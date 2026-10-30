@@ -1,7 +1,7 @@
-.venv/
+
 **/.env
 **/__pycache__/
 *.pyc
-.venv*/
+
 evidencias/*.png
 evidencias/*.pdf
