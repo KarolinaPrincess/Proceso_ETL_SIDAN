@@ -1,0 +1,295 @@
+2026-10-26 23:33:37,785 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-26 23:33:37,786 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-26 23:33:38,002 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-26 23:33:38,391 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:39:09,435 | INFO | Sincronizando incremental; cambios en: tbl_actividades
+2026-10-26 23:39:09,764 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:41:10,114 | INFO | Sincronizando incremental; cambios en: tbl_actividades
+2026-10-26 23:41:10,441 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:41:40,532 | INFO | Sincronizando incremental; cambios en: tbl_items_actividad
+2026-10-26 23:41:40,911 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:42:10,993 | INFO | Sincronizando incremental; cambios en: tbl_actividades
+2026-10-26 23:42:11,268 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:43:41,520 | INFO | Sincronizando incremental; cambios en: tbl_inscripciones
+2026-10-26 23:43:41,795 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:44:41,967 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_detalles_orden, tbl_ordenes, tbl_pagos
+2026-10-26 23:44:42,278 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:46:12,553 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_ordenes, tbl_pagos
+2026-10-26 23:46:13,533 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:47:13,696 | INFO | Sincronizando completa; cambios en: tbl_entregas_detalle
+2026-10-26 23:47:14,485 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:49:44,940 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_detalles_orden, tbl_ordenes, tbl_pagos
+2026-10-26 23:49:45,282 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:51:45,637 | INFO | Sincronizando incremental; cambios en: tbl_detalles_orden, tbl_ordenes
+2026-10-26 23:51:46,065 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:52:16,152 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_ordenes, tbl_pagos
+2026-10-26 23:52:16,472 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:54:16,809 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_detalles_orden, tbl_ordenes, tbl_pagos
+2026-10-26 23:54:17,686 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:55:47,989 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_ordenes, tbl_pagos
+2026-10-26 23:55:49,034 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-26 23:56:49,200 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_ordenes, tbl_pagos
+2026-10-26 23:56:49,515 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:02:13,414 | INFO | Monitoreo detenido
+2026-10-27 00:07:20,591 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-27 00:07:20,591 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-27 00:07:20,706 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-27 00:07:21,248 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:09:51,701 | INFO | Sincronizando incremental; cambios en: tbl_detalles_orden, tbl_ordenes
+2026-10-27 00:09:52,030 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:11:22,295 | INFO | Sincronizando incremental; cambios en: tbl_detalles_orden, tbl_ordenes
+2026-10-27 00:11:22,678 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:42:28,244 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_ordenes, tbl_pagos
+2026-10-27 00:42:29,165 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:42:59,260 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_detalles_orden, tbl_ordenes, tbl_pagos
+2026-10-27 00:42:59,772 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:43:59,984 | INFO | Sincronizando incremental; cambios en: tbl_inscripciones
+2026-10-27 00:44:00,348 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:45:00,519 | INFO | Sincronizando incremental; cambios en: tbl_inscripciones
+2026-10-27 00:45:00,887 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:46:01,076 | INFO | Sincronizando incremental; cambios en: tbl_inscripciones
+2026-10-27 00:46:01,489 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:47:01,656 | INFO | Sincronizando incremental; cambios en: tbl_inscripciones
+2026-10-27 00:47:02,016 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:48:32,282 | INFO | Sincronizando incremental; cambios en: tbl_inscripciones
+2026-10-27 00:48:32,622 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 00:49:02,714 | INFO | Sincronizando incremental; cambios en: tbl_inscripciones
+2026-10-27 00:49:03,132 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 02:05:17,653 | INFO | Sincronizando incremental; cambios en: tbl_detalles_orden, tbl_ordenes
+2026-10-27 02:05:18,121 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 02:05:48,237 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_ordenes, tbl_pagos
+2026-10-27 02:05:48,758 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 02:06:48,931 | INFO | Sincronizando incremental; cambios en: tbl_ordenes, tbl_pagos
+2026-10-27 02:06:49,419 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 02:08:19,709 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_detalles_orden, tbl_ordenes, tbl_pagos
+2026-10-27 02:08:20,147 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-27 02:09:20,331 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_pagos
+2026-10-27 02:09:21,239 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 16:03:31,960 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-28 16:03:31,961 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-28 16:03:32,095 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:03:32,511 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 16:10:33,794 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:10:33,882 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:11:03,966 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:11:04,070 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:11:34,153 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:11:34,249 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:12:04,322 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:12:04,403 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:12:34,490 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:12:34,590 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:13:04,665 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:13:04,768 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:13:34,828 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:13:34,909 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:14:04,987 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:14:05,090 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:14:35,170 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:14:35,272 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:15:05,326 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:15:05,454 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:20:51,346 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-28 16:20:51,346 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-28 16:20:51,454 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:20:51,591 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:21:21,669 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:21:21,773 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:21:51,848 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:21:51,940 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:22:22,018 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:22:22,126 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:22:52,202 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:22:52,302 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:23:22,376 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:23:22,479 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:23:52,558 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:23:52,625 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:24:22,690 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:24:22,780 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:24:52,857 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:24:52,964 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:25:23,051 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:25:23,168 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:25:53,245 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:25:53,349 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:26:23,430 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:26:23,534 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:26:53,621 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:26:53,727 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:27:23,801 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:27:23,917 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:27:53,978 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:27:54,082 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:28:24,156 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:28:24,271 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:28:54,341 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:28:54,444 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:29:24,526 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:29:24,624 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:29:54,710 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:29:54,830 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:30:24,906 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:30:25,027 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:30:55,102 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:30:55,207 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:31:25,278 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:31:25,358 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:31:55,436 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:31:55,550 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:32:25,629 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:32:25,729 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:32:55,813 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:32:55,915 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:33:25,992 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:33:26,076 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:33:56,150 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:33:56,273 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:34:26,351 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:34:26,466 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:34:56,534 | INFO | Sincronizando incremental; cambios en: arranque
+2026-10-28 16:34:56,641 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 16:35:06,645 | INFO | Monitoreo detenido
+2026-10-28 16:36:15,395 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-28 16:36:15,396 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-28 16:36:15,478 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:36:16,897 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 16:52:56,953 | INFO | Monitoreo detenido
+2026-10-28 16:52:58,781 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-28 16:52:58,781 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-28 16:52:58,859 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 16:53:00,283 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 17:00:02,543 | INFO | Monitoreo detenido
+2026-10-28 20:47:51,198 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-28 20:47:51,199 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-28 20:47:51,305 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 20:47:53,112 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 20:52:54,008 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 20:52:54,095 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 20:53:24,158 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 20:53:24,243 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 20:53:54,318 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 20:53:54,421 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 20:54:24,483 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 20:54:24,573 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 20:54:54,660 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 20:54:54,742 | ERROR | No se pudo sincronizar (RuntimeError). Revisar conexión y ETL.
+2026-10-28 20:55:24,840 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 20:55:49,781 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 21:22:33,840 | INFO | Monitoreo detenido
+2026-10-28 21:29:17,153 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-28 21:29:17,153 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-28 21:29:17,247 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:29:23,992 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 21:37:55,498 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:37:55,525 | ERROR | No se pudo sincronizar (UndefinedTable). Revisar conexión y ETL.
+2026-10-28 21:38:25,605 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:38:25,629 | ERROR | No se pudo sincronizar (UndefinedTable). Revisar conexión y ETL.
+2026-10-28 21:38:55,689 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:38:55,707 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:39:25,782 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:39:25,802 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:39:55,885 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:39:55,910 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:40:25,972 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:40:26,064 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:40:56,128 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:40:56,205 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:41:26,272 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:41:26,361 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:41:56,425 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:41:56,489 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:42:26,558 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:42:26,637 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:42:56,701 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:42:56,774 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:43:26,840 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:43:26,965 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:43:57,036 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:43:57,103 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:44:27,173 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:44:27,265 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:44:57,342 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:44:57,415 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:45:27,485 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:45:27,564 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:45:57,637 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 21:45:57,704 | ERROR | No se pudo sincronizar (InsufficientPrivilege). Revisar conexión y ETL.
+2026-10-28 21:46:27,793 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_ordenes, tbl_pagos
+2026-10-28 21:46:27,858 | ERROR | No se pudo sincronizar (RuntimeError). Revisar conexión y ETL.
+2026-10-28 21:46:57,947 | INFO | Sincronizando completa; cambios en: tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_ordenes, tbl_pagos
+2026-10-28 21:47:22,393 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 21:56:54,206 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_pagos
+2026-10-28 21:57:01,771 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 23:04:38,057 | INFO | Monitoreo detenido
+2026-10-28 23:18:09,052 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-28 23:18:09,052 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-28 23:18:09,143 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 23:18:16,626 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 23:24:19,915 | INFO | Monitoreo detenido
+2026-10-28 23:24:24,698 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-28 23:24:24,698 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-28 23:24:24,794 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-28 23:24:35,455 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-28 23:42:17,810 | INFO | Monitoreo detenido
+2026-10-29 00:04:47,477 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-29 00:04:47,478 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-29 00:04:47,602 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-29 00:04:55,317 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-29 01:23:45,791 | INFO | Monitoreo detenido
+2026-10-29 02:23:46,182 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-29 02:23:46,183 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-29 02:23:46,429 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_pagos
+2026-10-29 02:28:06,095 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-29 04:00:23,115 | INFO | Monitoreo detenido
+2026-10-29 04:11:58,323 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-29 04:11:58,323 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-29 04:11:58,500 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_ordenes_estados, tbl_pagos
+2026-10-29 19:54:31,567 | INFO | Monitoreo SIDAN iniciado, intervalo=30 segundos
+2026-10-29 19:54:31,568 | INFO | El proceso debe permanecer abierto; las credenciales se leen de etl/.env
+2026-10-29 19:54:31,961 | INFO | Sincronizando incremental; cambios en: tbl_abonos_transferencia, tbl_actividades, tbl_aplicaciones_abono, tbl_categorias, tbl_cierres_orden, tbl_detalles_orden, tbl_entregas_detalle, tbl_inscripciones, tbl_items_actividad, tbl_ordenes, tbl_ordenes_estados, tbl_pagos
+2026-10-29 19:58:58,713 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-29 20:06:01,017 | INFO | Sincronizando completa; cambios en: tbl_ordenes, tbl_ordenes_estados
+2026-10-29 20:22:35,721 | INFO | DW sincronizado; Streamlit verá los datos al refrescarse
+2026-10-29 20:28:04,459 | INFO | Monitoreo detenido
+2026-10-29 21:16:49,647 | INFO | Monitoreo iniciado; intervalo=15 segundos
+2026-10-29 21:16:49,985 | INFO | Arranque sin ETL inicial masivo
+2026-10-29 21:16:50,371 | INFO | Órdenes nuevas: 0; actualizadas: 1
+2026-10-29 21:18:38,787 | INFO | Monitoreo iniciado; intervalo=15 segundos
+2026-10-29 21:18:38,957 | INFO | Arranque sin ETL inicial masivo
+2026-10-29 21:18:39,236 | INFO | Órdenes nuevas: 0; actualizadas: 0
+2026-10-29 21:21:53,883 | INFO | Cambios de órdenes: sincronización rápida
+2026-10-29 21:21:54,158 | INFO | Nueva orden 51714: ETL individual
+2026-10-29 21:21:56,441 | INFO | Cambios de órdenes: sincronización rápida
+2026-10-29 21:21:56,742 | INFO | Nueva orden 51714: ETL individual
+2026-10-29 21:21:56,849 | ERROR | Error de sincronización; se reintentará
+Traceback (most recent call last):
+  File "C:\Users\Karlo\Desktop\SIDAN_BI_Implementacion_y_Documentacion real ultima preba funcional\SIDAN_BI\etl\auto_sync.py", line 405, in ciclo
+    sincronizar_ordenes_livianas(
+  File "C:\Users\Karlo\Desktop\SIDAN_BI_Implementacion_y_Documentacion real ultima preba funcional\SIDAN_BI\etl\auto_sync.py", line 283, in sincronizar_ordenes_livianas
+    run_pipeline(
+  File "C:\Users\Karlo\Desktop\SIDAN_BI_Implementacion_y_Documentacion real ultima preba funcional\SIDAN_BI\etl\pipeline.py", line 180, in run_pipeline
+    if not locked: raise RuntimeError('Ya hay otra ejecución ETL en curso')
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Ya hay otra ejecución ETL en curso
+2026-10-29 21:21:57,317 | INFO | Órdenes nuevas: 1; actualizadas: 0
+2026-10-29 21:21:57,325 | INFO | Sincronización terminada en 3.44 segundos
+2026-10-29 21:22:12,022 | INFO | Cambios de órdenes: sincronización rápida
+2026-10-29 21:22:12,363 | INFO | Órdenes nuevas: 0; actualizadas: 0
+2026-10-29 21:22:12,380 | INFO | Sincronización terminada en 0.36 segundos
+2026-10-29 21:37:07,611 | INFO | ETL incremental; cambios: tbl_inscripciones
+2026-10-29 21:42:34,655 | INFO | Sincronización terminada en 327.05 segundos
+2026-10-29 21:42:49,895 | INFO | ETL completo; cambios: tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_detalles_orden, tbl_entregas_detalle, tbl_ordenes, tbl_ordenes_estados, tbl_pagos
+2026-10-29 21:59:39,405 | INFO | Monitoreo iniciado; intervalo=15 segundos
+2026-10-29 21:59:39,799 | INFO | Inicio sin ETL masivo
+2026-10-29 22:00:25,790 | INFO | Cambios: tbl_abonos_estados, tbl_abonos_transferencia, tbl_detalles_orden, tbl_ordenes, tbl_ordenes_estados, tbl_pagos, tbl_pagos_estados
+2026-10-29 22:00:26,217 | INFO | Sincronizacion selectiva: 1 ordenes
+2026-10-29 22:00:26,218 | INFO | Actualizando orden 51716
+2026-10-29 22:00:29,092 | INFO | Sincronizacion terminada en 3.31s
+2026-10-29 22:01:45,189 | INFO | Cambios: tbl_abonos_estados, tbl_abonos_transferencia, tbl_aplicaciones_abono, tbl_detalles_orden, tbl_detalles_reconocidos, tbl_ordenes_estados, tbl_pagos, tbl_pagos_estados
+2026-10-29 22:01:45,575 | INFO | Sincronizacion selectiva: 1 ordenes
+2026-10-29 22:01:45,575 | INFO | Actualizando orden 51716
+2026-10-29 22:01:48,496 | INFO | Sincronizacion terminada en 3.30s
+2026-10-29 22:38:08,659 | INFO | Monitoreo detenido
+2026-10-29 22:39:10,566 | INFO | Monitoreo iniciado; intervalo=15 segundos
+2026-10-29 22:39:10,794 | INFO | Inicio sin ETL masivo

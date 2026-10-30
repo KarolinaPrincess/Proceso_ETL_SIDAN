@@ -1,0 +1,6 @@
+streamlit>=1.38,<2
+psycopg[binary]>=3.2,<4
+pandas>=2.2,<3
+plotly>=5.24,<7
+python-dotenv>=1,<2
+streamlit-autorefresh==1.0.1
